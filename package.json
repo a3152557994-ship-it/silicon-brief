@@ -1,0 +1,22 @@
+{
+  "name": "silicon-brief",
+  "version": "1.0.0",
+  "description": "3-Minute Bilingual Executive Teardowns of Silicon Valley AI Earnings & Frontier Papers — with Infographics & Web Speech Audio.",
+  "type": "module",
+  "main": "./src/brief-engine.mjs",
+  "exports": {
+    ".": "./src/brief-engine.mjs"
+  },
+  "scripts": {
+    "test": "node --test tests/*.test.mjs"
+  },
+  "keywords": [
+    "ai-earnings",
+    "unit-economics",
+    "bilingual-briefing",
+    "micro-saas",
+    "geo",
+    "executive-research"
+  ],
+  "license": "MIT"
+}

@@ -1,0 +1,14 @@
+# Silicon Brief 硅谷简报 (silicon-brief)
+
+> 3-minute bilingual (English + Mandarin) executive teardowns of Silicon Valley AI unit economics, frontier research papers, GEO search migration, and high-margin Micro-SaaS monetization—complete with HD infographics and browser-native Web Speech audio briefings.
+
+- Canonical URL: https://a3152557994-ship-it.github.io/silicon-brief/
+- Repository: https://github.com/a3152557994-ship-it/silicon-brief
+- Pricing: Issue #01 Free Flagship + Infographic; Pro Pass ¥29 CNY / quarter ($9 USD / quarter).
+- Contact & Subscription Key (`OPC1.`): 3152557994@qq.com / a3152557994@gmail.com
+
+## Published Issues Index
+1. **Issue #01 (Free Flagship + HD Infographic)**: The Unit Economics of AI Coding Agents — Token Cost Curves, Gross Margin Traps & Tool-Layer Arbitrage
+2. **Issue #02 (Free Summary + Pro Full)**: Enterprise Search & GEO Traffic Migration Across OpenAI (`OAI-SearchBot`), Google AI Overviews & Claude (4.3x conversion lift)
+3. **Issue #03 (Pro Exclusive)**: Global High-Margin Micro-SaaS Benchmark — One-Time Buyout vs. Subscription Retention, Churn & Refund Curves (N=480 tools)
+4. **Issue #04 (Pro Exclusive)**: Zero-Cloud-Cost Consumer AI — Monetization Atlas for On-Device Vision, OCR & Speech Models
